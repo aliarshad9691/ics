@@ -8,6 +8,9 @@ The [iCalendar](http://tools.ietf.org/html/rfc5545) generator
 [![TravisCI build status](https://travis-ci.org/adamgibbons/ics.svg?branch=master)](https://travis-ci.org/adamgibbons/ics.svg?branch=master)
 [![Downloads](https://img.shields.io/npm/dm/ics.svg)](http://npm-stat.com/charts.html?package=ics)
 
+## This Fork
+Replaced joi with joi-browser to make it browser compatible.
+
 ## Install
 
 `npm install -S ics`

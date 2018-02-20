@@ -1,5 +1,5 @@
 {
-  "name": "ics",
+  "name": "ics-browser",
   "version": "2.4.1",
   "description": "iCal (ics) file generator",
   "main": "index.js",
@@ -23,8 +23,9 @@
     "events",
     "alarms"
   ],
-  "author": "Adam Gibbons <adam@agibbons.com> (http://agibbons.com/)",
+  "author": "Ali Arshad <email@aliarshad.info> (http://aliarshad.info/)",
   "contributors": [
+    "Adam Gibbons <adam@agibbons.com> (http://agibbons.com/)",
     "Green Pioneer <info@greenpioneersolutions.com>",
     "Reda <reeda.bx@gmail.com>",
     "David Schlachter",
@@ -51,7 +52,7 @@
     "mocha": "^3.5.0"
   },
   "dependencies": {
-    "joi": "^10.6.0",
+    "joi-browser": "^10.6.0",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "uuid": "^3.1.0"
